@@ -912,6 +912,24 @@
     "xsec": 864.7, 
     "year": 2016
   }, 
+  "Embedding2016B_ElectronEmbedding_imputDoubleMumirrorminiAODv5_13TeV_USER_v5": {
+    "campaign": "ElectronEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016B/ElectronEmbedding-imputDoubleMu_mirror_miniAOD-v5/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_nanoAOD_2016_v1", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "4438793", 
+    "n_files": "5488", 
+    "process": "Embedding2016B", 
+    "scenario": "imputDoubleMu_mirror_miniAODv5", 
+    "version": "v5", 
+    "year": 2016
+  }, 
   "Embedding2016B_MuTauFinalState_imputSep16DoubleMumirrorminiAODv2_13TeV_USER": {
     "Moriond17": [
       "Skim_Base", 
@@ -934,6 +952,24 @@
     "scenario": "imputSep16DoubleMu_mirror_miniAODv2", 
     "version": "", 
     "xsec": 867.7, 
+    "year": 2016
+  }, 
+  "Embedding2016B_MuonEmbedding_imputSep16DoubleMuminiAODv2_13TeV_USER_v2": {
+    "campaign": "MuonEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016B/MuonEmbedding-imputSep16DoubleMu_miniAOD-v2/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_nanoAOD_2016_v1", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "5422202", 
+    "n_files": "5491", 
+    "process": "Embedding2016B", 
+    "scenario": "imputSep16DoubleMu_miniAODv2", 
+    "version": "v2", 
     "year": 2016
   }, 
   "Embedding2016B_TauTauFinalState_imputSep16DoubleMumirrorminiAODv2_13TeV_USER": {
@@ -1005,6 +1041,24 @@
     "xsec": 857.1, 
     "year": 2016
   }, 
+  "Embedding2016C_ElectronEmbedding_imputDoubleMumirrorminiAODv2_13TeV_USER_v2": {
+    "campaign": "ElectronEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016C/ElectronEmbedding-imputDoubleMu_mirror_miniAOD-v2/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_nanoAOD_2016_v1", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "1855825", 
+    "n_files": "2308", 
+    "process": "Embedding2016C", 
+    "scenario": "imputDoubleMu_mirror_miniAODv2", 
+    "version": "v2", 
+    "year": 2016
+  }, 
   "Embedding2016C_MuTauFinalState_imputSep16DoubleMumirrorminiAODv2_13TeV_USER": {
     "Moriond17": [
       "Skim_Base", 
@@ -1027,6 +1081,24 @@
     "scenario": "imputSep16DoubleMu_mirror_miniAODv2", 
     "version": "", 
     "xsec": 885.3, 
+    "year": 2016
+  }, 
+  "Embedding2016C_MuonEmbedding_imputSep16DoubleMuminiAODv2_13TeV_USER_v2": {
+    "campaign": "MuonEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016C/MuonEmbedding-imputSep16DoubleMu_miniAOD-v2/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_nanoAOD_2016_v1", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "2353428", 
+    "n_files": "2392", 
+    "process": "Embedding2016C", 
+    "scenario": "imputSep16DoubleMu_miniAODv2", 
+    "version": "v2", 
     "year": 2016
   }, 
   "Embedding2016C_TauTauFinalState_imputSep16DoubleMumirrorminiAODv2_13TeV_USER": {
@@ -1093,6 +1165,24 @@
     "xsec": 825.4, 
     "year": 2016
   }, 
+  "Embedding2016D_ElectronEmbedding_imputDoubleMumirrorminiAODv5_13TeV_USER_v5": {
+    "campaign": "ElectronEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016D/ElectronEmbedding-imputDoubleMu_mirror_miniAOD-v5/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_nanoAOD_2016_v1", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "3291890", 
+    "n_files": "4097", 
+    "process": "Embedding2016D", 
+    "scenario": "imputDoubleMu_mirror_miniAODv5", 
+    "version": "v5", 
+    "year": 2016
+  }, 
   "Embedding2016D_MuTauFinalState_imputSep16DoubleMumirrorminiAODv2_13TeV_USER": {
     "Moriond17": [
       "Skim_Base", 
@@ -1115,6 +1205,24 @@
     "scenario": "imputSep16DoubleMu_mirror_miniAODv2", 
     "version": "", 
     "xsec": 889.2, 
+    "year": 2016
+  }, 
+  "Embedding2016D_MuonEmbedding_imputSep16DoubleMuminiAODv2_13TeV_USER_v2": {
+    "campaign": "MuonEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016D/MuonEmbedding-imputSep16DoubleMu_miniAOD-v2/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_nanoAOD_2016_v1", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "4033879", 
+    "n_files": "4097", 
+    "process": "Embedding2016D", 
+    "scenario": "imputSep16DoubleMu_miniAODv2", 
+    "version": "v2", 
     "year": 2016
   }, 
   "Embedding2016D_TauTauFinalState_imputSep16DoubleMumirrorminiAODv2_13TeV_USER": {
@@ -1181,6 +1289,24 @@
     "xsec": 825.4, 
     "year": 2016
   }, 
+  "Embedding2016E_ElectronEmbedding_imputDoubleMumirrorminiAODv5_13TeV_USER_v5": {
+    "campaign": "ElectronEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016E/ElectronEmbedding-imputDoubleMu_mirror_miniAOD-v5/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_nanoAOD_2016_v1", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "2995438", 
+    "n_files": "3745", 
+    "process": "Embedding2016E", 
+    "scenario": "imputDoubleMu_mirror_miniAODv5", 
+    "version": "v5", 
+    "year": 2016
+  }, 
   "Embedding2016E_MuTauFinalState_imputSep16DoubleMumirrorminiAODv2_13TeV_USER": {
     "Moriond17": [
       "Skim_Base", 
@@ -1203,6 +1329,24 @@
     "scenario": "imputSep16DoubleMu_mirror_miniAODv2", 
     "version": "", 
     "xsec": 830.7, 
+    "year": 2016
+  }, 
+  "Embedding2016E_MuonEmbedding_imputSep16DoubleMuminiAODv2_13TeV_USER_v2": {
+    "campaign": "MuonEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016E/MuonEmbedding-imputSep16DoubleMu_miniAOD-v2/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_nanoAOD_2016_v1", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "3674971", 
+    "n_files": "3742", 
+    "process": "Embedding2016E", 
+    "scenario": "imputSep16DoubleMu_miniAODv2", 
+    "version": "v2", 
     "year": 2016
   }, 
   "Embedding2016E_TauTauFinalState_imputSep16DoubleMumirrorminiAODv2_13TeV_USER": {
@@ -1269,6 +1413,24 @@
     "xsec": 852.5, 
     "year": 2016
   }, 
+  "Embedding2016F_ElectronEmbedding_imputDoubleMumirrorminiAODv5_13TeV_USER_v5": {
+    "campaign": "ElectronEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016F/ElectronEmbedding-imputDoubleMu_mirror_miniAOD-v5/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_nanoAOD_2016_v1", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "2236114", 
+    "n_files": "2798", 
+    "process": "Embedding2016F", 
+    "scenario": "imputDoubleMu_mirror_miniAODv5", 
+    "version": "v5", 
+    "year": 2016
+  }, 
   "Embedding2016F_MuTauFinalState_imputSep16DoubleMumirrorminiAODv2_13TeV_USER": {
     "Moriond17": [
       "Skim_Base", 
@@ -1291,6 +1453,24 @@
     "scenario": "imputSep16DoubleMu_mirror_miniAODv2", 
     "version": "", 
     "xsec": 832.9, 
+    "year": 2016
+  }, 
+  "Embedding2016F_MuonEmbedding_imputSep16DoubleMuminiAODv2_13TeV_USER_v2": {
+    "campaign": "MuonEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016F/MuonEmbedding-imputSep16DoubleMu_miniAOD-v2/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_nanoAOD_2016_v1", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "2746849", 
+    "n_files": "2797", 
+    "process": "Embedding2016F", 
+    "scenario": "imputSep16DoubleMu_miniAODv2", 
+    "version": "v2", 
     "year": 2016
   }, 
   "Embedding2016F_TauTauFinalState_imputSep16DoubleMumirrorminiAODv2_13TeV_USER": {
@@ -1357,6 +1537,24 @@
     "xsec": 863.8, 
     "year": 2016
   }, 
+  "Embedding2016G_ElectronEmbedding_imputDoubleMumirrorminiAODv5_13TeV_USER_v5": {
+    "campaign": "ElectronEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016G/ElectronEmbedding-imputDoubleMu_mirror_miniAOD-v5/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_nanoAOD_2016_v1", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "5893865", 
+    "n_files": "7312", 
+    "process": "Embedding2016G", 
+    "scenario": "imputDoubleMu_mirror_miniAODv5", 
+    "version": "v5", 
+    "year": 2016
+  }, 
   "Embedding2016G_MuTauFinalState_imputSep16DoubleMumirrorminiAODv2_13TeV_USER": {
     "Moriond17": [
       "Skim_Base", 
@@ -1379,6 +1577,24 @@
     "scenario": "imputSep16DoubleMu_mirror_miniAODv2", 
     "version": "", 
     "xsec": 858.8, 
+    "year": 2016
+  }, 
+  "Embedding2016G_MuonEmbedding_imputSep16DoubleMuminiAODv2_13TeV_USER_v2": {
+    "campaign": "MuonEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016G/MuonEmbedding-imputSep16DoubleMu_miniAOD-v2/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_nanoAOD_2016_v1", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "6798743", 
+    "n_files": "6877", 
+    "process": "Embedding2016G", 
+    "scenario": "imputSep16DoubleMu_miniAODv2", 
+    "version": "v2", 
     "year": 2016
   }, 
   "Embedding2016G_TauTauFinalState_imputSep16DoubleMumirrorminiAODv2_13TeV_USER": {
@@ -1447,6 +1663,24 @@
     "xsec": 836.0, 
     "year": 2016
   }, 
+  "Embedding2016H_ElectronEmbedding_imputDoubleMumirrorminiAODv5_13TeV_USER_v5": {
+    "campaign": "ElectronEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016H/ElectronEmbedding-imputDoubleMu_mirror_miniAOD-v5/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_nanoAOD_2016_v1", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "7398279", 
+    "n_files": "9215", 
+    "process": "Embedding2016H", 
+    "scenario": "imputDoubleMu_mirror_miniAODv5", 
+    "version": "v5", 
+    "year": 2016
+  }, 
   "Embedding2016H_MuTauFinalState_imputPromptDoubleMumirrorminiAODv2_13TeV_USER": {
     "Moriond17": [
       "Skim_Base", 
@@ -1470,6 +1704,24 @@
     "scenario": "imputPromptDoubleMu_mirror_miniAODv2", 
     "version": "", 
     "xsec": 816.4, 
+    "year": 2016
+  }, 
+  "Embedding2016H_MuonEmbedding_imputPromptDoubleMuminiAODv2_13TeV_USER_v2": {
+    "campaign": "MuonEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016H/MuonEmbedding-imputPromptDoubleMu_miniAOD-v2/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_nanoAOD_2016_v1", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "8403811", 
+    "n_files": "8505", 
+    "process": "Embedding2016H", 
+    "scenario": "imputPromptDoubleMu_miniAODv2", 
+    "version": "v2", 
     "year": 2016
   }, 
   "Embedding2016H_TauTauFinalState_imputPromptDoubleMumirrorminiAODv3_13TeV_USER": {
@@ -2318,7 +2570,7 @@
     "n_files": "0", 
     "process": "Embedding2018D", 
     "scenario": "inputDoubleMu_102X_miniAODv1", 
-    "version": "v1",
+    "version": "v1", 
     "year": 2018
   }, 
   "GluGluHToTauTauM110_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
