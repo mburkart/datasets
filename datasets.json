@@ -4060,6 +4060,7 @@
     "process": "SUSYGluGluToBBHToTauTau_M1500", 
     "scenario": "102X", 
     "version": "v2", 
+    "xsec": 1.0, 
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM1500_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
@@ -4118,6 +4119,7 @@
     "process": "SUSYGluGluToBBHToTauTau_M1600", 
     "scenario": "102X", 
     "version": "v2", 
+    "xsec": 1.0, 
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM1600_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
@@ -6333,6 +6335,7 @@
     "process": "SUSYGluGluToHToTauTau_M160", 
     "scenario": "102X", 
     "version": "v2", 
+    "xsec": 1.0, 
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM160_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
