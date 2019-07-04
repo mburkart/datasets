@@ -2460,6 +2460,24 @@
     "version": "v1", 
     "year": 2018
   }, 
+  "Embedding2018A_ElectronEmbedding_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "campaign": "ElectronEmbedding", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2018A/ElectronEmbedding-inputDoubleMu_102X_miniAOD-v1/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_Sep2018ABC_v2", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "14964725", 
+    "n_files": "21606", 
+    "process": "Embedding2018A", 
+    "scenario": "inputDoubleMu_102X_miniAODv1", 
+    "version": "v1",
+    "year": 2018
+  }, 
   "Embedding2018A_MuTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
     "campaign": "MuTauFinalState", 
     "data": true, 
@@ -2626,7 +2644,8 @@
     "n_files": "8968", 
     "process": "Embedding2018C", 
     "scenario": "inputDoubleMu_102X_miniAODv1", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2018
   }, 
   "Embedding2018C_MuTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
     "campaign": "MuTauFinalState", 
