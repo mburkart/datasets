@@ -2513,7 +2513,7 @@
     "process": "Embedding2018A", 
     "scenario": "inputDoubleMu_102X_miniAODv1", 
     "version": "v1", 
-    "year": "2018"
+    "year": 2018
   }, 
   "Embedding2018A_TauTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
     "campaign": "TauTauFinalState", 
@@ -2587,7 +2587,7 @@
     "process": "Embedding2018B", 
     "scenario": "inputDoubleMu_102X_miniAODv1", 
     "version": "v1", 
-    "year": "2018"
+    "year": 2018
   }, 
   "Embedding2018B_MuTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
     "campaign": "MuTauFinalState", 
@@ -2624,7 +2624,7 @@
     "process": "Embedding2018B", 
     "scenario": "inputDoubleMu_102X_miniAODv1", 
     "version": "v1", 
-    "year": "2018"
+    "year": 2018
   }, 
   "Embedding2018B_TauTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
     "campaign": "TauTauFinalState", 
@@ -2810,7 +2810,7 @@
     "process": "Embedding2018D", 
     "scenario": "inputDoubleMu_102X_miniAODv1", 
     "version": "v1", 
-    "year": "2018"
+    "year": 2018
   }, 
   "Embedding2018D_MuTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
     "campaign": "MuTauFinalState", 
