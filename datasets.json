@@ -2949,26 +2949,27 @@
     "xsec": 3.0469376, 
     "year": 2017
   }, 
-  "GluGluHToTauTauM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v1": {
+  "GluGluHToTauTauM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v3": {
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
-    "dbs": "/GluGluHToTauTau_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM", 
+    "dbs": "/GluGluHToTauTau_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v3/MINIAODSIM", 
     "energy": "13", 
     "era": "2016-Legacy", 
     "extension": "", 
     "format": "MINIAOD", 
     "generator": "powheg-pythia8", 
+    "inputDBS": "global", 
+    "n_events_generated": "9673200", 
+    "n_files": "78", 
     "generatorWeight": 1.0, 
     "globalTag": "102X_mcRun2_asymptotic_v6", 
-    "inputDBS": "global", 
-    "n_events_generated": "1497800", 
-    "n_files": "15", 
     "process": "GluGluHToTauTau_M125", 
     "scenario": "PUMoriond17", 
-    "version": "v1", 
+    "version": "v3",
     "xsec": 3.0469376, 
     "year": 2016
-  }, 
+},
+
   "GluGluHToWWTo2L2NuM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
