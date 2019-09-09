@@ -1,5 +1,8 @@
 {
   "DY1JetsToLLM50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part2"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/DY1JetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -20,6 +23,9 @@
     "year": 2018
   }, 
   "DY1JetsToLLM50_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/DY1JetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_v3_94X_mc2017_realistic_v14_ext1-v2/MINIAODSIM", 
@@ -41,6 +47,9 @@
     "year": 2017
   }, 
   "DY1JetsToLLM50_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/DY1JetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -62,6 +71,9 @@
     "year": 2017
   }, 
   "DY1JetsToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/DY1JetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM", 
@@ -82,6 +94,9 @@
     "year": 2016
   }, 
   "DY2JetsToLLM50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part2"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/DY2JetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -103,6 +118,9 @@
     "year": 2018
   }, 
   "DY2JetsToLLM50_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/DY2JetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14_ext1-v2/MINIAODSIM", 
@@ -124,6 +142,9 @@
     "year": 2017
   }, 
   "DY2JetsToLLM50_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/DY2JetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -145,6 +166,9 @@
     "year": 2017
   }, 
   "DY2JetsToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/DY2JetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -166,6 +190,9 @@
     "year": 2016
   }, 
   "DY3JetsToLLM50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part2"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/DY3JetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -186,6 +213,9 @@
     "year": 2018
   }, 
   "DY3JetsToLLM50_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_ext1-v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/DY3JetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v1/MINIAODSIM", 
@@ -207,6 +237,9 @@
     "year": 2017
   }, 
   "DY3JetsToLLM50_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/DY3JetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -228,6 +261,9 @@
     "year": 2017
   }, 
   "DY3JetsToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/DY3JetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -248,6 +284,9 @@
     "year": 2016
   }, 
   "DY4JetsToLLM50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2018_MC-part2"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/DY4JetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -268,6 +307,9 @@
     "year": 2018
   }, 
   "DY4JetsToLLM50_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/DY4JetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_v2_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -289,6 +331,9 @@
     "year": 2017
   }, 
   "DY4JetsToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/DY4JetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -309,6 +354,9 @@
     "year": 2016
   }, 
   "DYJetsToLLM10to50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part2"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-10to50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -330,6 +378,9 @@
     "year": 2018
   }, 
   "DYJetsToLLM10to50_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-10to50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v2/MINIAODSIM", 
@@ -351,6 +402,9 @@
     "year": 2017
   }, 
   "DYJetsToLLM10to50_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-10to50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -372,6 +426,9 @@
     "year": 2017
   }, 
   "DYJetsToLLM10to50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -393,6 +450,9 @@
     "year": 2016
   }, 
   "DYJetsToLLM50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_ext2-v1": {
+    "Legacy_Skim": [
+      "2018_MC-part2"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext2-v1/MINIAODSIM", 
@@ -412,6 +472,9 @@
     "year": 2018
   }, 
   "DYJetsToLLM50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2018_MC-part2"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -431,6 +494,9 @@
     "year": 2018
   }, 
   "DYJetsToLLM50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2018_MC-part2"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -451,6 +517,9 @@
     "year": 2018
   }, 
   "DYJetsToLLM50_RunIIFall17MiniAODv2_PU2017RECOSIMstep_13TeV_MINIAOD_madgraph-pythia8_ext1-v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017RECOSIMstep_12Apr2018_94X_mc2017_realistic_v14_ext1-v1/MINIAODSIM", 
@@ -472,6 +541,9 @@
     "year": 2017
   }, 
   "DYJetsToLLM50_RunIIFall17MiniAODv2_PU2017RECOSIMstep_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017RECOSIMstep_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -493,6 +565,9 @@
     "year": 2017
   }, 
   "DYJetsToLLM50_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_ext1-v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14_ext1-v1/MINIAODSIM", 
@@ -512,6 +587,9 @@
     "year": 2017
   }, 
   "DYJetsToLLM50_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -531,6 +609,9 @@
     "year": 2017
   }, 
   "DYJetsToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_ext2-v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v1/MINIAODSIM", 
@@ -550,6 +631,9 @@
     "year": 2016
   }, 
   "DYJetsToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM", 
@@ -570,6 +654,9 @@
     "year": 2016
   }, 
   "DYJetsToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext2-v2": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v2/MINIAODSIM", 
@@ -590,6 +677,9 @@
     "year": 2016
   }, 
   "EGamma_Run2018A_17Sep2018v2_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018A", 
     "data": true, 
     "dbs": "/EGamma/Run2018A-17Sep2018-v2/MINIAOD", 
@@ -608,6 +698,9 @@
     "year": 2018
   }, 
   "EGamma_Run2018B_17Sep2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018B", 
     "data": true, 
     "dbs": "/EGamma/Run2018B-17Sep2018-v1/MINIAOD", 
@@ -626,6 +719,9 @@
     "year": 2018
   }, 
   "EGamma_Run2018C_17Sep2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018C", 
     "data": true, 
     "dbs": "/EGamma/Run2018C-17Sep2018-v1/MINIAOD", 
@@ -644,6 +740,9 @@
     "year": 2018
   }, 
   "EGamma_Run2018D_22Jan2019v2_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018D", 
     "data": true, 
     "dbs": "/EGamma/Run2018D-22Jan2019-v2/MINIAOD", 
@@ -662,6 +761,9 @@
     "year": 2018
   }, 
   "EWKWMinus2JetsWToLNuM50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/EWKWMinus2Jets_WToLNu_M-50_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -682,6 +784,9 @@
     "year": 2018
   }, 
   "EWKWMinus2JetsWToLNuM50_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/EWKWMinus2Jets_WToLNu_M-50_TuneCP5_13TeV-madgraph-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -702,6 +807,9 @@
     "year": 2017
   }, 
   "EWKWMinus2JetsWToLNuM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/EWKWMinus2Jets_WToLNu_M-50_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM", 
@@ -722,6 +830,9 @@
     "year": 2016
   }, 
   "EWKWMinus2JetsWToLNuM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext2-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/EWKWMinus2Jets_WToLNu_M-50_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v2/MINIAODSIM", 
@@ -742,6 +853,9 @@
     "year": 2016
   }, 
   "EWKWPlus2JetsWToLNuM50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/EWKWPlus2Jets_WToLNu_M-50_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -762,6 +876,9 @@
     "year": 2018
   }, 
   "EWKWPlus2JetsWToLNuM50_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/EWKWPlus2Jets_WToLNu_M-50_TuneCP5_13TeV-madgraph-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -782,6 +899,9 @@
     "year": 2017
   }, 
   "EWKWPlus2JetsWToLNuM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/EWKWPlus2Jets_WToLNu_M-50_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM", 
@@ -802,6 +922,9 @@
     "year": 2016
   }, 
   "EWKWPlus2JetsWToLNuM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext2-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/EWKWPlus2Jets_WToLNu_M-50_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v2/MINIAODSIM", 
@@ -822,6 +945,9 @@
     "year": 2016
   }, 
   "EWKZ2JetsZToLLM50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/EWKZ2Jets_ZToLL_M-50_TuneCP5_PSweights_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -842,6 +968,9 @@
     "year": 2018
   }, 
   "EWKZ2JetsZToLLM50_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/EWKZ2Jets_ZToLL_M-50_TuneCP5_13TeV-madgraph-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -862,6 +991,9 @@
     "year": 2017
   }, 
   "EWKZ2JetsZToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/EWKZ2Jets_ZToLL_M-50_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM", 
@@ -882,6 +1014,9 @@
     "year": 2016
   }, 
   "EWKZ2JetsZToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext2-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/EWKZ2Jets_ZToLL_M-50_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v2/MINIAODSIM", 
@@ -902,6 +1037,9 @@
     "year": 2016
   }, 
   "EWKZ2Jets_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/EWKZ2Jets_ZToNuNu_TuneCP5_PSweights_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -922,6 +1060,9 @@
     "year": 2018
   }, 
   "EWKZ2Jets_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/EWKZ2Jets_ZToNuNu_TuneCP5_13TeV-madgraph-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -942,6 +1083,9 @@
     "year": 2017
   }, 
   "EWKZ2Jets_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/EWKZ2Jets_ZToNuNu_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM", 
@@ -962,6 +1106,9 @@
     "year": 2016
   }, 
   "EWKZ2Jets_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext2-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/EWKZ2Jets_ZToNuNu_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v2/MINIAODSIM", 
@@ -1972,6 +2119,9 @@
     "year": 2016
   }, 
   "Embedding2017B_ElMuFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElMuFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017B/ElMuFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -1991,6 +2141,9 @@
     "year": 2017
   }, 
   "Embedding2017B_ElTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017B/ElTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2010,6 +2163,9 @@
     "year": 2017
   }, 
   "Embedding2017B_ElectronEmbedding_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElectronEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2017B/ElectronEmbedding-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2028,6 +2184,9 @@
     "year": 2017
   }, 
   "Embedding2017B_MuTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "MuTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017B/MuTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2047,6 +2206,9 @@
     "year": 2017
   }, 
   "Embedding2017B_MuonEmbedding_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "MuonEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2017B/MuonEmbedding-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2065,6 +2227,9 @@
     "year": 2017
   }, 
   "Embedding2017B_TauTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "TauTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017B/TauTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2084,6 +2249,9 @@
     "year": 2017
   }, 
   "Embedding2017C_ElMuFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElMuFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017C/ElMuFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2103,6 +2271,9 @@
     "year": 2017
   }, 
   "Embedding2017C_ElTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017C/ElTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2122,6 +2293,9 @@
     "year": 2017
   }, 
   "Embedding2017C_ElectronEmbedding_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElectronEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2017C/ElectronEmbedding-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2140,6 +2314,9 @@
     "year": 2017
   }, 
   "Embedding2017C_MuTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "MuTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017C/MuTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2159,6 +2336,9 @@
     "year": 2017
   }, 
   "Embedding2017C_MuonEmbedding_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "MuonEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2017C/MuonEmbedding-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2177,6 +2357,9 @@
     "year": 2017
   }, 
   "Embedding2017C_TauTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "TauTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017C/TauTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2196,6 +2379,9 @@
     "year": 2017
   }, 
   "Embedding2017D_ElMuFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElMuFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017D/ElMuFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2215,6 +2401,9 @@
     "year": 2017
   }, 
   "Embedding2017D_ElTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017D/ElTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2234,6 +2423,9 @@
     "year": 2017
   }, 
   "Embedding2017D_ElectronEmbedding_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElectronEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2017D/ElectronEmbedding-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2252,6 +2444,9 @@
     "year": 2017
   }, 
   "Embedding2017D_MuTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "MuTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017D/MuTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2271,6 +2466,9 @@
     "year": 2017
   }, 
   "Embedding2017D_MuonEmbedding_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "MuonEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2017D/MuonEmbedding-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2289,6 +2487,9 @@
     "year": 2017
   }, 
   "Embedding2017D_TauTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "TauTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017D/TauTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2308,6 +2509,9 @@
     "year": 2017
   }, 
   "Embedding2017E_ElMuFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElMuFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017E/ElMuFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2327,6 +2531,9 @@
     "year": 2017
   }, 
   "Embedding2017E_ElTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017E/ElTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2346,6 +2553,9 @@
     "year": 2017
   }, 
   "Embedding2017E_ElectronEmbedding_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElectronEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2017E/ElectronEmbedding-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2364,6 +2574,9 @@
     "year": 2017
   }, 
   "Embedding2017E_MuTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "MuTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017E/MuTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2383,6 +2596,9 @@
     "year": 2017
   }, 
   "Embedding2017E_MuonEmbedding_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "MuonEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2017E/MuonEmbedding-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2401,6 +2617,9 @@
     "year": 2017
   }, 
   "Embedding2017E_TauTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "TauTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017E/TauTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2420,6 +2639,9 @@
     "year": 2017
   }, 
   "Embedding2017F_ElMuFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElMuFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017F/ElMuFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2439,6 +2661,9 @@
     "year": 2017
   }, 
   "Embedding2017F_ElTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017F/ElTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2458,6 +2683,9 @@
     "year": 2017
   }, 
   "Embedding2017F_ElectronEmbedding_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "ElectronEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2017F/ElectronEmbedding-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2476,6 +2704,9 @@
     "year": 2017
   }, 
   "Embedding2017F_MuTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "MuTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017F/MuTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2495,6 +2726,9 @@
     "year": 2017
   }, 
   "Embedding2017F_MuonEmbedding_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "MuonEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2017F/MuonEmbedding-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2513,6 +2747,9 @@
     "year": 2017
   }, 
   "Embedding2017F_TauTauFinalState_inputDoubleMu94XminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2017_EMB"
+    ], 
     "campaign": "TauTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2017F/TauTauFinalState-inputDoubleMu_94X_miniAOD-v2/USER", 
@@ -2532,6 +2769,9 @@
     "year": 2017
   }, 
   "Embedding2018A_ElMuFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "ElMuFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018A/ElMuFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2551,6 +2791,9 @@
     "year": 2018
   }, 
   "Embedding2018A_ElTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "ElTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018A/ElTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2569,6 +2812,9 @@
     "year": 2018
   }, 
   "Embedding2018A_ElectronEmbedding_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "ElectronEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2018A/ElectronEmbedding-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2587,6 +2833,9 @@
     "year": 2018
   }, 
   "Embedding2018A_MuTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "MuTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018A/MuTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2606,6 +2855,9 @@
     "year": 2018
   }, 
   "Embedding2018A_MuonEmbedding_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "MuonEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2018A/MuonEmbedding-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2624,6 +2876,9 @@
     "year": 2018
   }, 
   "Embedding2018A_TauTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "TauTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018A/TauTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2643,6 +2898,9 @@
     "year": 2018
   }, 
   "Embedding2018B_ElMuFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "ElMuFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018B/ElMuFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2661,6 +2919,9 @@
     "year": 2018
   }, 
   "Embedding2018B_ElTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "ElTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018B/ElTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2680,6 +2941,9 @@
     "year": 2018
   }, 
   "Embedding2018B_ElectronEmbedding_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "ElectronEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2018B/ElectronEmbedding-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2698,6 +2962,9 @@
     "year": 2018
   }, 
   "Embedding2018B_MuTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "MuTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018B/MuTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2717,6 +2984,9 @@
     "year": 2018
   }, 
   "Embedding2018B_MuonEmbedding_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "MuonEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2018B/MuonEmbedding-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2735,6 +3005,9 @@
     "year": 2018
   }, 
   "Embedding2018B_TauTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "TauTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018B/TauTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2754,6 +3027,9 @@
     "year": 2018
   }, 
   "Embedding2018C_ElMuFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "ElMuFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018C/ElMuFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2773,6 +3049,9 @@
     "year": 2018
   }, 
   "Embedding2018C_ElTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "ElTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018C/ElTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2792,6 +3071,9 @@
     "year": 2018
   }, 
   "Embedding2018C_ElectronEmbedding_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "ElectronEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2018C/ElectronEmbedding-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2810,6 +3092,9 @@
     "year": 2018
   }, 
   "Embedding2018C_MuTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "MuTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018C/MuTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2829,6 +3114,9 @@
     "year": 2018
   }, 
   "Embedding2018C_MuonEmbedding_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "MuonEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2018C/MuonEmbedding-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2848,6 +3136,9 @@
     "year": 2018
   }, 
   "Embedding2018C_TauTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "TauTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018C/TauTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2867,6 +3158,9 @@
     "year": 2018
   }, 
   "Embedding2018D_ElMuFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "ElMuFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018D/ElMuFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2885,6 +3179,9 @@
     "year": 2018
   }, 
   "Embedding2018D_ElTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "ElTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018D/ElTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2903,6 +3200,9 @@
     "year": 2018
   }, 
   "Embedding2018D_ElectronEmbedding_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "ElectronEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2018D/ElectronEmbedding-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2921,6 +3221,9 @@
     "year": 2018
   }, 
   "Embedding2018D_MuTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "MuTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018D/MuTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2940,6 +3243,9 @@
     "year": 2018
   }, 
   "Embedding2018D_TauTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2018_EMB"
+    ], 
     "campaign": "TauTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018D/TauTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -2958,6 +3264,9 @@
     "year": 2018
   }, 
   "GluGluHToTauTauM110_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/GluGluHToTauTau_M110_13TeV_powheg_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -2978,6 +3287,9 @@
     "year": 2017
   }, 
   "GluGluHToTauTauM120_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/GluGluHToTauTau_M120_13TeV_powheg_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -2998,6 +3310,9 @@
     "year": 2017
   }, 
   "GluGluHToTauTauM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/GluGluHToTauTau_M125_13TeV_powheg_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -3018,6 +3333,9 @@
     "year": 2018
   }, 
   "GluGluHToTauTauM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_ext1-v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/GluGluHToTauTau_M125_13TeV_powheg_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v1/MINIAODSIM", 
@@ -3038,6 +3356,9 @@
     "year": 2017
   }, 
   "GluGluHToTauTauM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/GluGluHToTauTau_M125_13TeV_powheg_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -3058,6 +3379,9 @@
     "year": 2017
   }, 
   "GluGluHToTauTauM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v3": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/GluGluHToTauTau_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v3/MINIAODSIM", 
@@ -3078,6 +3402,9 @@
     "year": 2016
   }, 
   "GluGluHToWWTo2L2NuM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/GluGluHToWWTo2L2Nu_M125_13TeV_powheg2_JHUGenV714_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -3098,6 +3425,9 @@
     "year": 2017
   }, 
   "GluGluHToWWTo2L2NuM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-JHUgenv628-pythia8_v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/GluGluHToWWTo2L2Nu_M125_13TeV_powheg_JHUgenv628_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM", 
@@ -3118,6 +3448,9 @@
     "year": 2016
   }, 
   "MuonEG_Run2016B_17Jul2018ver2v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016B", 
     "data": true, 
     "dbs": "/MuonEG/Run2016B-17Jul2018_ver2-v1/MINIAOD", 
@@ -3136,6 +3469,9 @@
     "year": 2016
   }, 
   "MuonEG_Run2016C_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016C", 
     "data": true, 
     "dbs": "/MuonEG/Run2016C-17Jul2018-v1/MINIAOD", 
@@ -3154,6 +3490,9 @@
     "year": 2016
   }, 
   "MuonEG_Run2016D_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016D", 
     "data": true, 
     "dbs": "/MuonEG/Run2016D-17Jul2018-v1/MINIAOD", 
@@ -3172,6 +3511,9 @@
     "year": 2016
   }, 
   "MuonEG_Run2016E_17Jul2018v2_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016E", 
     "data": true, 
     "dbs": "/MuonEG/Run2016E-17Jul2018-v2/MINIAOD", 
@@ -3190,6 +3532,9 @@
     "year": 2016
   }, 
   "MuonEG_Run2016F_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016F", 
     "data": true, 
     "dbs": "/MuonEG/Run2016F-17Jul2018-v1/MINIAOD", 
@@ -3208,6 +3553,9 @@
     "year": 2016
   }, 
   "MuonEG_Run2016G_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016G", 
     "data": true, 
     "dbs": "/MuonEG/Run2016G-17Jul2018-v1/MINIAOD", 
@@ -3226,6 +3574,9 @@
     "year": 2016
   }, 
   "MuonEG_Run2016H_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016H", 
     "data": true, 
     "dbs": "/MuonEG/Run2016H-17Jul2018-v1/MINIAOD", 
@@ -3244,6 +3595,9 @@
     "year": 2016
   }, 
   "MuonEG_Run2017B_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017B", 
     "data": true, 
     "dbs": "/MuonEG/Run2017B-31Mar2018-v1/MINIAOD", 
@@ -3262,6 +3616,9 @@
     "year": 2017
   }, 
   "MuonEG_Run2017C_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017C", 
     "data": true, 
     "dbs": "/MuonEG/Run2017C-31Mar2018-v1/MINIAOD", 
@@ -3280,6 +3637,9 @@
     "year": 2017
   }, 
   "MuonEG_Run2017D_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017D", 
     "data": true, 
     "dbs": "/MuonEG/Run2017D-31Mar2018-v1/MINIAOD", 
@@ -3298,6 +3658,9 @@
     "year": 2017
   }, 
   "MuonEG_Run2017E_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017E", 
     "data": true, 
     "dbs": "/MuonEG/Run2017E-31Mar2018-v1/MINIAOD", 
@@ -3316,6 +3679,9 @@
     "year": 2017
   }, 
   "MuonEG_Run2017F_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017F", 
     "data": true, 
     "dbs": "/MuonEG/Run2017F-31Mar2018-v1/MINIAOD", 
@@ -3334,6 +3700,9 @@
     "year": 2017
   }, 
   "MuonEG_Run2018A_17Sep2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018A", 
     "data": true, 
     "dbs": "/MuonEG/Run2018A-17Sep2018-v1/MINIAOD", 
@@ -3352,6 +3721,9 @@
     "year": 2018
   }, 
   "MuonEG_Run2018B_17Sep2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018B", 
     "data": true, 
     "dbs": "/MuonEG/Run2018B-17Sep2018-v1/MINIAOD", 
@@ -3370,6 +3742,9 @@
     "year": 2018
   }, 
   "MuonEG_Run2018C_17Sep2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018C", 
     "data": true, 
     "dbs": "/MuonEG/Run2018C-17Sep2018-v1/MINIAOD", 
@@ -3388,6 +3763,9 @@
     "year": 2018
   }, 
   "MuonEG_Run2018D_PromptRecov2_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018D", 
     "data": true, 
     "dbs": "/MuonEG/Run2018D-PromptReco-v2/MINIAOD", 
@@ -3406,6 +3784,9 @@
     "year": 2018
   }, 
   "STt-channelantitop4fInclusiveDecaysTuneCP5_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -3425,6 +3806,9 @@
     "year": 2018
   }, 
   "STt-channelantitop4finclusiveDecaysTuneCP5_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/ST_t-channel_antitop_4f_inclusiveDecays_TuneCP5_13TeV-powhegV2-madspin-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -3446,6 +3830,9 @@
     "year": 2017
   }, 
   "STt-channelantitop4finclusiveDecays_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/ST_t-channel_antitop_4f_inclusiveDecays_13TeV-powhegV2-madspin-pythia8_TuneCUETP8M1/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM", 
@@ -3466,6 +3853,9 @@
     "year": 2016
   }, 
   "STt-channeltop4fInclusiveDecaysTuneCP5_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/ST_t-channel_top_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -3485,6 +3875,9 @@
     "year": 2018
   }, 
   "STt-channeltop4finclusiveDecaysTuneCP5_RunIIFall17MiniAODv2_PU2017newpmx_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/ST_t-channel_top_4f_inclusiveDecays_TuneCP5_13TeV-powhegV2-madspin-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -3506,6 +3899,9 @@
     "year": 2017
   }, 
   "STt-channeltop4finclusiveDecays_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/ST_t-channel_top_4f_inclusiveDecays_13TeV-powhegV2-madspin-pythia8_TuneCUETP8M1/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM", 
@@ -3526,6 +3922,9 @@
     "year": 2016
   }, 
   "STtWantitop5finclusiveDecaysTuneCP5_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_ext1-v1": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/ST_tW_antitop_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v1/MINIAODSIM", 
@@ -3546,6 +3945,9 @@
     "year": 2018
   }, 
   "STtWantitop5finclusiveDecaysTuneCP5_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/ST_tW_antitop_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -3566,6 +3968,9 @@
     "year": 2017
   }, 
   "STtWantitop5finclusiveDecays_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_ext1-v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/ST_tW_antitop_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v1/MINIAODSIM", 
@@ -3586,6 +3991,9 @@
     "year": 2016
   }, 
   "STtWtop5finclusiveDecaysTuneCP5_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_ext1-v1": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/ST_tW_top_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v1/MINIAODSIM", 
@@ -3606,6 +4014,9 @@
     "year": 2018
   }, 
   "STtWtop5finclusiveDecaysTuneCP5_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/ST_tW_top_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -3627,6 +4038,9 @@
     "year": 2017
   }, 
   "STtWtop5finclusiveDecays_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_ext1-v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/ST_tW_top_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v1/MINIAODSIM", 
@@ -3647,6 +4061,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1000_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1000_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -3667,6 +4084,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM1000_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -3687,6 +4107,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM100_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-100_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -3707,6 +4130,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM100_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-100_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -3727,6 +4153,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM100_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-100_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -3747,6 +4176,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM110_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-110_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -3767,6 +4199,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM110_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-110_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -3787,6 +4222,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM110_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-110_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -3807,6 +4245,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM110_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-110_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -3827,6 +4268,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1200_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1200_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -3847,6 +4291,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM1200_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1200_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -3867,6 +4314,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM1200_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1200_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -3887,6 +4337,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM1200_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1200_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -3907,6 +4360,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM120_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-120_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -3927,6 +4383,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM120_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-120_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -3947,6 +4406,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM120_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-120_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -3967,6 +4429,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM120_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-120_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -3987,6 +4452,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-125_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4007,6 +4475,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM130_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-130_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -4027,6 +4498,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM130_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-130_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4047,6 +4521,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM130_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-130_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4067,6 +4544,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM130_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-130_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -4087,6 +4567,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1400_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1400_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -4107,6 +4590,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM1400_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1400_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4127,6 +4613,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM1400_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1400_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4147,6 +4636,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM1400_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1400_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -4167,6 +4659,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM140_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-140_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -4187,6 +4682,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM140_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-140_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4207,6 +4705,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM140_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-140_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4227,6 +4728,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM140_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-140_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -4247,6 +4751,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1500_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1500_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -4266,6 +4773,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM1500_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1500_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4286,6 +4796,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM1500_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1500_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -4306,6 +4819,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1600_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -4325,6 +4841,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM1600_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1600_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4345,6 +4864,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM1600_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1600_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -4365,6 +4887,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM160_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-160_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -4385,6 +4910,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM160_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-160_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4405,6 +4933,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM160_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-160_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4425,6 +4956,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM160_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-160_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -4445,6 +4979,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1800_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1800_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -4465,6 +5002,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM1800_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1800_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4485,6 +5025,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM1800_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1800_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4505,6 +5048,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM1800_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1800_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -4524,6 +5070,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM180_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-180_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -4544,6 +5093,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM180_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-180_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4564,6 +5116,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM180_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-180_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4584,6 +5139,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM180_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-180_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -4604,6 +5162,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM2000_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2000_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -4624,6 +5185,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM2000_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2000_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4644,6 +5208,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM2000_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2000_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4664,6 +5231,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM2000_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -4684,6 +5254,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM200_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-200_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -4704,6 +5277,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM200_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-200_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4724,6 +5300,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM200_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-200_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4744,6 +5323,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM200_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-200_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -4764,6 +5346,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM2300_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2300_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -4784,6 +5369,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM2300_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2300_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4804,6 +5392,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM2300_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2300_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4824,6 +5415,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM2300_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2300_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -4844,6 +5438,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM250_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-250_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -4864,6 +5461,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM250_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-250_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4884,6 +5484,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM250_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-250_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4904,6 +5507,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM250_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-250_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -4924,6 +5530,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM2600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2600_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -4944,6 +5553,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM2600_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2600_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4964,6 +5576,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM2600_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2600_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -4984,6 +5599,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM2600_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2600_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -5004,6 +5622,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM2900_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2900_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -5024,6 +5645,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM2900_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2900_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5044,6 +5668,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM2900_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2900_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -5063,6 +5690,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM300_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-300_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -5083,6 +5713,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM300_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-300_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5102,6 +5735,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM300_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-300_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5122,6 +5758,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM300_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-300_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -5142,6 +5781,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM3200_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-3200_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -5162,6 +5804,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM3200_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-3200_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5182,6 +5827,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM3200_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-3200_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5202,6 +5850,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM3200_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-3200_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -5222,6 +5873,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM350_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-350_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -5242,6 +5896,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM350_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-350_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5262,6 +5919,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM350_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-350_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5282,6 +5942,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM350_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-350_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -5302,6 +5965,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM400_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-400_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -5322,6 +5988,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM400_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-400_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5342,6 +6011,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM400_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-400_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5362,6 +6034,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM400_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-400_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -5382,6 +6057,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM450_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-450_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -5402,6 +6080,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM450_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-450_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5422,6 +6103,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM450_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-450_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5442,6 +6126,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM450_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-450_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM", 
@@ -5462,6 +6149,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM500_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-500_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5482,6 +6172,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM500_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-500_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -5502,6 +6195,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-600_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -5522,6 +6218,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM600_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-600_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5542,6 +6241,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM600_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-600_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5562,6 +6264,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM600_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-600_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -5582,6 +6287,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM700_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-700_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -5602,6 +6310,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM700_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-700_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5622,6 +6333,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM700_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-700_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5642,6 +6356,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM700_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-700_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -5662,6 +6379,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM800_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-800_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -5682,6 +6402,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM800_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-800_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5702,6 +6425,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM800_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-800_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5722,6 +6448,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM800_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-800_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -5742,6 +6471,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM80_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-80_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -5762,6 +6494,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM80_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-80_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5782,6 +6517,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM80_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-80_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -5802,6 +6540,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM900_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-900_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -5822,6 +6563,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM900_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-900_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5842,6 +6586,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM900_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-900_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5862,6 +6609,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM900_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-900_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -5882,6 +6632,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM90_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-90_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -5902,6 +6655,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM90_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-90_TuneCP5_13TeV-amcatnlo-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5922,6 +6678,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM90_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-90_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -5942,6 +6701,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM90_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-90_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM", 
@@ -5962,6 +6724,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM1000_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -5982,6 +6747,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM100_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-100_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6002,6 +6770,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM100_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-100_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6022,6 +6793,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM100_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-100_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6042,6 +6816,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM110_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-110_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6062,6 +6839,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM110_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-110_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6082,6 +6862,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM110_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-110_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6102,6 +6885,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM1200_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1200_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6122,6 +6908,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM1200_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1200_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6142,6 +6931,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM1200_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1200_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6162,6 +6954,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM120_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-120_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6182,6 +6977,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM120_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-120_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6202,6 +7000,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM120_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-120_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6222,6 +7023,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM130_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-130_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6242,6 +7046,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM130_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-130_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6262,6 +7069,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM130_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-130_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6282,6 +7092,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM1400_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1400_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6302,6 +7115,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM1400_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1400_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6322,6 +7138,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM1400_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1400_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6342,6 +7161,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM140_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-140_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6362,6 +7184,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM140_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-140_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6382,6 +7207,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM140_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-140_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6402,6 +7230,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM1500_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1500_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6422,6 +7253,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM1500_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1500_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6442,6 +7276,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM1500_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1500_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6462,6 +7299,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM1600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1600_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6482,6 +7322,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM1600_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1600_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6502,6 +7345,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM1600_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1600_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6522,6 +7368,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM160_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-160_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6541,6 +7390,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM160_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-160_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6561,6 +7413,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM1800_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1800_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6581,6 +7436,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM1800_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1800_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6601,6 +7459,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM1800_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1800_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6621,6 +7482,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM180_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-180_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6641,6 +7505,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM180_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-180_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6661,6 +7528,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM180_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-180_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6681,6 +7551,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM2000_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-2000_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6701,6 +7574,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM2000_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-2000_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6721,6 +7597,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM2000_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-2000_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6741,6 +7620,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM200_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-200_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6761,6 +7643,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM200_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-200_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6781,6 +7666,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM200_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-200_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6801,6 +7689,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM2300_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-2300_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6821,6 +7712,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM2300_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-2300_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6841,6 +7735,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM2300_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-2300_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6861,6 +7758,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM250_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-250_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6881,6 +7781,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM250_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-250_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6901,6 +7804,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM250_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-250_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6921,6 +7827,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM2600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-2600_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6941,6 +7850,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM2600_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-2600_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -6961,6 +7873,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM2600_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-2600_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -6981,6 +7896,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM2900_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-2900_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -7001,6 +7919,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM2900_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-2900_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -7021,6 +7942,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM2900_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-2900_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -7041,6 +7965,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM300_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-300_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -7061,6 +7988,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM300_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-300_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -7081,6 +8011,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM300_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-300_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -7101,6 +8034,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM3200_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-3200_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -7121,6 +8057,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM3200_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-3200_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -7141,6 +8080,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM3200_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-3200_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -7161,6 +8103,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM350_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-350_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -7181,6 +8126,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM350_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-350_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -7201,6 +8149,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM350_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-350_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -7221,6 +8172,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM400_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-400_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -7241,6 +8195,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM400_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-400_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -7261,6 +8218,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM400_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-400_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -7281,6 +8241,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM450_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-450_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -7301,6 +8264,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM450_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-450_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -7321,6 +8287,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM450_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-450_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -7341,6 +8310,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM500_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-500_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -7361,6 +8333,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-600_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -7381,6 +8356,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM600_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-600_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -7401,6 +8379,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM600_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-600_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -7421,6 +8402,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM700_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-700_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -7441,6 +8425,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM700_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-700_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -7461,6 +8448,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM700_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-700_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -7481,6 +8471,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM800_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-800_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -7501,6 +8494,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM800_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-800_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -7521,6 +8517,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM800_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-800_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -7541,6 +8540,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM80_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-80_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -7561,6 +8563,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM80_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-80_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -7581,6 +8586,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM80_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-80_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -7601,6 +8609,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM900_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-900_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -7621,6 +8632,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM900_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-900_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -7641,6 +8655,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM900_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-900_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -7661,6 +8678,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM90_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-90_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -7681,6 +8701,9 @@
     "year": 2018
   }, 
   "SUSYGluGluToHToTauTauM90_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-90_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -7701,6 +8724,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToHToTauTauM90_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-90_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -7721,6 +8747,9 @@
     "year": 2016
   }, 
   "SingleElectron_Run2016B_17Jul2018ver2v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016B", 
     "data": true, 
     "dbs": "/SingleElectron/Run2016B-17Jul2018_ver2-v1/MINIAOD", 
@@ -7739,6 +8768,9 @@
     "year": 2016
   }, 
   "SingleElectron_Run2016C_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016C", 
     "data": true, 
     "dbs": "/SingleElectron/Run2016C-17Jul2018-v1/MINIAOD", 
@@ -7757,6 +8789,9 @@
     "year": 2016
   }, 
   "SingleElectron_Run2016D_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016D", 
     "data": true, 
     "dbs": "/SingleElectron/Run2016D-17Jul2018-v1/MINIAOD", 
@@ -7775,6 +8810,9 @@
     "year": 2016
   }, 
   "SingleElectron_Run2016E_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016E", 
     "data": true, 
     "dbs": "/SingleElectron/Run2016E-17Jul2018-v1/MINIAOD", 
@@ -7793,6 +8831,9 @@
     "year": 2016
   }, 
   "SingleElectron_Run2016F_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016F", 
     "data": true, 
     "dbs": "/SingleElectron/Run2016F-17Jul2018-v1/MINIAOD", 
@@ -7811,6 +8852,9 @@
     "year": 2016
   }, 
   "SingleElectron_Run2016G_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016G", 
     "data": true, 
     "dbs": "/SingleElectron/Run2016G-17Jul2018-v1/MINIAOD", 
@@ -7829,6 +8873,9 @@
     "year": 2016
   }, 
   "SingleElectron_Run2016H_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016H", 
     "data": true, 
     "dbs": "/SingleElectron/Run2016H-17Jul2018-v1/MINIAOD", 
@@ -7847,6 +8894,9 @@
     "year": 2016
   }, 
   "SingleElectron_Run2017B_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017B", 
     "data": true, 
     "dbs": "/SingleElectron/Run2017B-31Mar2018-v1/MINIAOD", 
@@ -7865,6 +8915,9 @@
     "year": 2017
   }, 
   "SingleElectron_Run2017C_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017C", 
     "data": true, 
     "dbs": "/SingleElectron/Run2017C-31Mar2018-v1/MINIAOD", 
@@ -7883,6 +8936,9 @@
     "year": 2017
   }, 
   "SingleElectron_Run2017D_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017D", 
     "data": true, 
     "dbs": "/SingleElectron/Run2017D-31Mar2018-v1/MINIAOD", 
@@ -7901,6 +8957,9 @@
     "year": 2017
   }, 
   "SingleElectron_Run2017E_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017E", 
     "data": true, 
     "dbs": "/SingleElectron/Run2017E-31Mar2018-v1/MINIAOD", 
@@ -7919,6 +8978,9 @@
     "year": 2017
   }, 
   "SingleElectron_Run2017F_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017F", 
     "data": true, 
     "dbs": "/SingleElectron/Run2017F-31Mar2018-v1/MINIAOD", 
@@ -7937,6 +8999,9 @@
     "year": 2017
   }, 
   "SingleMuon_Run2016B_17Jul2018ver2v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016B", 
     "data": true, 
     "dbs": "/SingleMuon/Run2016B-17Jul2018_ver2-v1/MINIAOD", 
@@ -7955,6 +9020,9 @@
     "year": 2016
   }, 
   "SingleMuon_Run2016C_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016C", 
     "data": true, 
     "dbs": "/SingleMuon/Run2016C-17Jul2018-v1/MINIAOD", 
@@ -7973,6 +9041,9 @@
     "year": 2016
   }, 
   "SingleMuon_Run2016D_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016D", 
     "data": true, 
     "dbs": "/SingleMuon/Run2016D-17Jul2018-v1/MINIAOD", 
@@ -7991,6 +9062,9 @@
     "year": 2016
   }, 
   "SingleMuon_Run2016E_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016E", 
     "data": true, 
     "dbs": "/SingleMuon/Run2016E-17Jul2018-v1/MINIAOD", 
@@ -8009,6 +9083,9 @@
     "year": 2016
   }, 
   "SingleMuon_Run2016F_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016F", 
     "data": true, 
     "dbs": "/SingleMuon/Run2016F-17Jul2018-v1/MINIAOD", 
@@ -8027,6 +9104,9 @@
     "year": 2016
   }, 
   "SingleMuon_Run2016G_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016G", 
     "data": true, 
     "dbs": "/SingleMuon/Run2016G-17Jul2018-v1/MINIAOD", 
@@ -8045,6 +9125,9 @@
     "year": 2016
   }, 
   "SingleMuon_Run2016H_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016H", 
     "data": true, 
     "dbs": "/SingleMuon/Run2016H-17Jul2018-v1/MINIAOD", 
@@ -8063,6 +9146,9 @@
     "year": 2016
   }, 
   "SingleMuon_Run2017B_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017B", 
     "data": true, 
     "dbs": "/SingleMuon/Run2017B-31Mar2018-v1/MINIAOD", 
@@ -8081,6 +9167,9 @@
     "year": 2017
   }, 
   "SingleMuon_Run2017C_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017C", 
     "data": true, 
     "dbs": "/SingleMuon/Run2017C-31Mar2018-v1/MINIAOD", 
@@ -8099,6 +9188,9 @@
     "year": 2017
   }, 
   "SingleMuon_Run2017D_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017D", 
     "data": true, 
     "dbs": "/SingleMuon/Run2017D-31Mar2018-v1/MINIAOD", 
@@ -8117,6 +9209,9 @@
     "year": 2017
   }, 
   "SingleMuon_Run2017E_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017E", 
     "data": true, 
     "dbs": "/SingleMuon/Run2017E-31Mar2018-v1/MINIAOD", 
@@ -8135,6 +9230,9 @@
     "year": 2017
   }, 
   "SingleMuon_Run2017F_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017F", 
     "data": true, 
     "dbs": "/SingleMuon/Run2017F-31Mar2018-v1/MINIAOD", 
@@ -8153,6 +9251,9 @@
     "year": 2017
   }, 
   "SingleMuon_Run2018A_17Sep2018v2_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018A", 
     "data": true, 
     "dbs": "/SingleMuon/Run2018A-17Sep2018-v2/MINIAOD", 
@@ -8171,6 +9272,9 @@
     "year": 2018
   }, 
   "SingleMuon_Run2018B_17Sep2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018B", 
     "data": true, 
     "dbs": "/SingleMuon/Run2018B-17Sep2018-v1/MINIAOD", 
@@ -8189,6 +9293,9 @@
     "year": 2018
   }, 
   "SingleMuon_Run2018C_17Sep2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018C", 
     "data": true, 
     "dbs": "/SingleMuon/Run2018C-17Sep2018-v1/MINIAOD", 
@@ -8207,6 +9314,9 @@
     "year": 2018
   }, 
   "SingleMuon_Run2018D_22Jan2019v2_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018D", 
     "data": true, 
     "dbs": "/SingleMuon/Run2018D-22Jan2019-v2/MINIAOD", 
@@ -8225,6 +9335,9 @@
     "year": 2018
   }, 
   "TTJets_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/TTJets_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM", 
@@ -8245,6 +9358,9 @@
     "year": 2016
   }, 
   "TTTo2L2Nu_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2018_MC-part2"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -8265,6 +9381,9 @@
     "year": 2018
   }, 
   "TTTo2L2Nu_RunIIFall17MiniAODv2_PU2017newpmx_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -8286,6 +9405,9 @@
     "year": 2017
   }, 
   "TTToHadronic_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2018_MC-part2"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -8306,6 +9428,9 @@
     "year": 2018
   }, 
   "TTToHadronic_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -8327,6 +9452,9 @@
     "year": 2017
   }, 
   "TTToSemiLeptonic_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2018_MC-part2"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -8347,6 +9475,9 @@
     "year": 2018
   }, 
   "TTToSemiLeptonic_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -8368,6 +9499,9 @@
     "year": 2017
   }, 
   "TTToSemilepton_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/TTToSemilepton_TuneCUETP8M2_ttHtranche3_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -8388,6 +9522,9 @@
     "year": 2016
   }, 
   "TT_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/TT_TuneCUETP8M2T4_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM", 
@@ -8408,6 +9545,9 @@
     "year": 2016
   }, 
   "Tau_Run2016B_17Jul2018ver2v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016B", 
     "data": true, 
     "dbs": "/Tau/Run2016B-17Jul2018_ver2-v1/MINIAOD", 
@@ -8426,6 +9566,9 @@
     "year": 2016
   }, 
   "Tau_Run2016C_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016C", 
     "data": true, 
     "dbs": "/Tau/Run2016C-17Jul2018-v1/MINIAOD", 
@@ -8444,6 +9587,9 @@
     "year": 2016
   }, 
   "Tau_Run2016D_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016D", 
     "data": true, 
     "dbs": "/Tau/Run2016D-17Jul2018-v1/MINIAOD", 
@@ -8462,6 +9608,9 @@
     "year": 2016
   }, 
   "Tau_Run2016E_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016E", 
     "data": true, 
     "dbs": "/Tau/Run2016E-17Jul2018-v1/MINIAOD", 
@@ -8480,6 +9629,9 @@
     "year": 2016
   }, 
   "Tau_Run2016F_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016F", 
     "data": true, 
     "dbs": "/Tau/Run2016F-17Jul2018-v1/MINIAOD", 
@@ -8498,6 +9650,9 @@
     "year": 2016
   }, 
   "Tau_Run2016G_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016G", 
     "data": true, 
     "dbs": "/Tau/Run2016G-17Jul2018-v1/MINIAOD", 
@@ -8516,6 +9671,9 @@
     "year": 2016
   }, 
   "Tau_Run2016H_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
     "campaign": "Run2016H", 
     "data": true, 
     "dbs": "/Tau/Run2016H-17Jul2018-v1/MINIAOD", 
@@ -8534,6 +9692,9 @@
     "year": 2016
   }, 
   "Tau_Run2017B_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017B", 
     "data": true, 
     "dbs": "/Tau/Run2017B-31Mar2018-v1/MINIAOD", 
@@ -8552,6 +9713,9 @@
     "year": 2017
   }, 
   "Tau_Run2017C_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017C", 
     "data": true, 
     "dbs": "/Tau/Run2017C-31Mar2018-v1/MINIAOD", 
@@ -8570,6 +9734,9 @@
     "year": 2017
   }, 
   "Tau_Run2017D_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017D", 
     "data": true, 
     "dbs": "/Tau/Run2017D-31Mar2018-v1/MINIAOD", 
@@ -8588,6 +9755,9 @@
     "year": 2017
   }, 
   "Tau_Run2017E_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017E", 
     "data": true, 
     "dbs": "/Tau/Run2017E-31Mar2018-v1/MINIAOD", 
@@ -8606,6 +9776,9 @@
     "year": 2017
   }, 
   "Tau_Run2017F_31Mar2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2017_DATA"
+    ], 
     "campaign": "Run2017F", 
     "data": true, 
     "dbs": "/Tau/Run2017F-31Mar2018-v1/MINIAOD", 
@@ -8624,6 +9797,9 @@
     "year": 2017
   }, 
   "Tau_Run2018A_17Sep2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018A", 
     "data": true, 
     "dbs": "/Tau/Run2018A-17Sep2018-v1/MINIAOD", 
@@ -8642,6 +9818,9 @@
     "year": 2018
   }, 
   "Tau_Run2018B_17Sep2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018B", 
     "data": true, 
     "dbs": "/Tau/Run2018B-17Sep2018-v1/MINIAOD", 
@@ -8660,6 +9839,9 @@
     "year": 2018
   }, 
   "Tau_Run2018C_17Sep2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018C", 
     "data": true, 
     "dbs": "/Tau/Run2018C-17Sep2018-v1/MINIAOD", 
@@ -8678,6 +9860,9 @@
     "year": 2018
   }, 
   "Tau_Run2018D_PromptRecov2_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2018_DATA"
+    ], 
     "campaign": "Run2018D", 
     "data": true, 
     "dbs": "/Tau/Run2018D-PromptReco-v2/MINIAOD", 
@@ -8696,6 +9881,9 @@
     "year": 2018
   }, 
   "VBFHToTauTauM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_ext1-v1": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/VBFHToTauTau_M125_13TeV_powheg_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v1/MINIAODSIM", 
@@ -8716,6 +9904,9 @@
     "year": 2018
   }, 
   "VBFHToTauTauM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/VBFHToTauTau_M125_13TeV_powheg_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -8736,6 +9927,9 @@
     "year": 2017
   }, 
   "VBFHToTauTauM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/VBFHToTauTau_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -8756,6 +9950,9 @@
     "year": 2016
   }, 
   "VBFHToWWTo2L2NuM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/VBFHToWWTo2L2Nu_M125_13TeV_powheg2_JHUGenV714_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -8776,6 +9973,9 @@
     "year": 2017
   }, 
   "VBFHToWWTo2L2NuM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-JHUgenv628-pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/VBFHToWWTo2L2Nu_M125_13TeV_powheg_JHUgenv628_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -8796,6 +9996,9 @@
     "year": 2016
   }, 
   "VVTo2L2Nu_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/VVTo2L2Nu_13TeV_amcatnloFXFX_madspin_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -8815,6 +10018,9 @@
     "year": 2018
   }, 
   "VVTo2L2Nu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/VVTo2L2Nu_13TeV_amcatnloFXFX_madspin_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -8836,6 +10042,9 @@
     "year": 2017
   }, 
   "VVTo2L2Nu_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/VVTo2L2Nu_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM", 
@@ -8856,6 +10065,9 @@
     "year": 2016
   }, 
   "VVTo2L2Nu_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/VVTo2L2Nu_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -8876,6 +10088,9 @@
     "year": 2016
   }, 
   "W1JetsToLNu_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/W1JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -8896,6 +10111,9 @@
     "year": 2018
   }, 
   "W1JetsToLNu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v4": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/W1JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v4/MINIAODSIM", 
@@ -8916,6 +10134,9 @@
     "year": 2017
   }, 
   "W1JetsToLNu_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/W1JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM", 
@@ -8936,6 +10157,9 @@
     "year": 2016
   }, 
   "W2JetsToLNu_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/W2JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -8956,6 +10180,9 @@
     "year": 2018
   }, 
   "W2JetsToLNu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v5": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/W2JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v5/MINIAODSIM", 
@@ -8975,6 +10202,9 @@
     "year": 2017
   }, 
   "W2JetsToLNu_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/W2JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM", 
@@ -8995,6 +10225,9 @@
     "year": 2016
   }, 
   "W3JetsToLNu_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/W3JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -9015,6 +10248,9 @@
     "year": 2018
   }, 
   "W3JetsToLNu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/W3JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -9036,6 +10272,9 @@
     "year": 2017
   }, 
   "W3JetsToLNu_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/W3JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM", 
@@ -9056,6 +10295,9 @@
     "year": 2016
   }, 
   "W4JetsToLNu_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/W4JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -9076,6 +10318,9 @@
     "year": 2018
   }, 
   "W4JetsToLNu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/W4JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -9095,6 +10340,9 @@
     "year": 2017
   }, 
   "W4JetsToLNu_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/W4JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM", 
@@ -9115,6 +10363,9 @@
     "year": 2016
   }, 
   "W4JetsToLNu_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext2-v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/W4JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v1/MINIAODSIM", 
@@ -9135,6 +10386,9 @@
     "year": 2016
   }, 
   "WGToLNuG_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WGToLNuG_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -9155,6 +10409,9 @@
     "year": 2017
   }, 
   "WGToLNuG_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_ext1-v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WGToLNuG_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v1/MINIAODSIM", 
@@ -9175,6 +10432,9 @@
     "year": 2016
   }, 
   "WGToLNuG_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_ext2-v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WGToLNuG_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v1/MINIAODSIM", 
@@ -9195,6 +10455,9 @@
     "year": 2016
   }, 
   "WGToLNuG_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_ext3-v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WGToLNuG_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext3-v1/MINIAODSIM", 
@@ -9215,6 +10478,9 @@
     "year": 2016
   }, 
   "WGstarToLNuEE_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph_v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WGstarToLNuEE_012Jets_13TeV-madgraph/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM", 
@@ -9235,6 +10501,9 @@
     "year": 2016
   }, 
   "WGstarToLNuMuMu_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph_v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WGstarToLNuMuMu_012Jets_13TeV-madgraph/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM", 
@@ -9255,6 +10524,9 @@
     "year": 2016
   }, 
   "WJetsToLNu_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -9275,6 +10547,9 @@
     "year": 2018
   }, 
   "WJetsToLNu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v2/MINIAODSIM", 
@@ -9296,6 +10571,9 @@
     "year": 2017
   }, 
   "WJetsToLNu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v3": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v3/MINIAODSIM", 
@@ -9315,6 +10593,9 @@
     "year": 2017
   }, 
   "WJetsToLNu_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext2-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WJetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v2/MINIAODSIM", 
@@ -9335,6 +10616,9 @@
     "year": 2016
   }, 
   "WJetsToLNu_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WJetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -9355,6 +10639,9 @@
     "year": 2016
   }, 
   "WWTo1L1Nu2Q_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WWTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -9376,6 +10663,9 @@
     "year": 2017
   }, 
   "WWTo1L1Nu2Q_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WWTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -9396,6 +10686,9 @@
     "year": 2016
   }, 
   "WWTo2L2Nu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_ext1-v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WWTo2L2Nu_NNPDF31_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v1/MINIAODSIM", 
@@ -9417,6 +10710,9 @@
     "year": 2017
   }, 
   "WWTo2L2Nu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WWTo2L2Nu_NNPDF31_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -9438,6 +10734,9 @@
     "year": 2017
   }, 
   "WWTo4Q_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_ext1-v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WWTo4Q_NNPDF31_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v1/MINIAODSIM", 
@@ -9459,6 +10758,9 @@
     "year": 2017
   }, 
   "WWTo4Q_RunIIFall17MiniAODv2_PU2017newpmx_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WWTo4Q_NNPDF31_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -9480,6 +10782,9 @@
     "year": 2017
   }, 
   "WWToLNuQQ_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_ext1-v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WWToLNuQQ_NNPDF31_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v1/MINIAODSIM", 
@@ -9501,6 +10806,9 @@
     "year": 2017
   }, 
   "WWToLNuQQ_RunIIFall17MiniAODv2_PU2017newpmx_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WWToLNuQQ_NNPDF31_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -9522,6 +10830,9 @@
     "year": 2017
   }, 
   "WWToLNuQQ_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg_ext1-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WWToLNuQQ_13TeV-powheg/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM", 
@@ -9542,6 +10853,9 @@
     "year": 2016
   }, 
   "WWToLNuQQ_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WWToLNuQQ_13TeV-powheg/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -9562,6 +10876,9 @@
     "year": 2016
   }, 
   "WW_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/WW_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -9582,6 +10899,9 @@
     "year": 2018
   }, 
   "WW_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WW_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -9602,6 +10922,9 @@
     "year": 2017
   }, 
   "WW_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WW_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM", 
@@ -9622,6 +10945,9 @@
     "year": 2016
   }, 
   "WW_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WW_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -9642,6 +10968,9 @@
     "year": 2016
   }, 
   "WZJToLLLNu_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WZJToLLLNu_TuneCUETP8M1_13TeV-amcnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM", 
@@ -9662,6 +10991,9 @@
     "year": 2016
   }, 
   "WZTo1L1Nu2Q_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -9683,6 +11015,9 @@
     "year": 2017
   }, 
   "WZTo1L1Nu2Q_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -9703,6 +11038,9 @@
     "year": 2016
   }, 
   "WZTo1L3Nu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WZTo1L3Nu_13TeV_amcatnloFXFX_madspin_pythia8_v2/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -9724,6 +11062,9 @@
     "year": 2017
   }, 
   "WZTo1L3Nu_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WZTo1L3Nu_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -9744,6 +11085,9 @@
     "year": 2016
   }, 
   "WZTo2L2Q_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -9765,6 +11109,9 @@
     "year": 2017
   }, 
   "WZTo2L2Q_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -9785,6 +11132,9 @@
     "year": 2016
   }, 
   "WZTo3LNu_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/WZTo3LNu_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM", 
@@ -9805,6 +11155,9 @@
     "year": 2018
   }, 
   "WZTo3LNu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WZTo3LNu_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -9825,6 +11178,9 @@
     "year": 2017
   }, 
   "WZ_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v3": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/WZ_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v3/MINIAODSIM", 
@@ -9845,6 +11201,9 @@
     "year": 2018
   }, 
   "WZ_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WZ_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -9866,6 +11225,9 @@
     "year": 2017
   }, 
   "WZ_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WZ_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM", 
@@ -9886,6 +11248,9 @@
     "year": 2016
   }, 
   "WZ_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WZ_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -9906,6 +11271,9 @@
     "year": 2016
   }, 
   "WminusHToTauTauM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/WminusHToTauTau_M125_13TeV_powheg_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -9926,6 +11294,9 @@
     "year": 2018
   }, 
   "WminusHToTauTauM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WminusHToTauTau_M125_13TeV_powheg_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -9946,6 +11317,9 @@
     "year": 2017
   }, 
   "WminusHToTauTauM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WminusHToTauTau_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -9966,6 +11340,9 @@
     "year": 2016
   }, 
   "WplusHToTauTauM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/WplusHToTauTau_M125_13TeV_powheg_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -9986,6 +11363,9 @@
     "year": 2018
   }, 
   "WplusHToTauTauM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WplusHToTauTau_M125_13TeV_powheg_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -10006,6 +11386,9 @@
     "year": 2017
   }, 
   "WplusHToTauTauM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/WplusHToTauTau_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -10026,6 +11409,9 @@
     "year": 2016
   }, 
   "WplusHToTauTauM130_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/WplusHToTauTau_M130_13TeV_powheg_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -10046,6 +11432,9 @@
     "year": 2017
   }, 
   "ZHToTauTauM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/ZHToTauTau_M125_13TeV_powheg_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -10066,6 +11455,9 @@
     "year": 2018
   }, 
   "ZHToTauTauM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/ZHToTauTau_M125_13TeV_powheg_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -10086,6 +11478,9 @@
     "year": 2017
   }, 
   "ZHToTauTauM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/ZHToTauTau_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -10106,6 +11501,9 @@
     "year": 2016
   }, 
   "ZZTo2L2Nu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/ZZTo2L2Nu_13TeV_powheg_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -10127,6 +11525,9 @@
     "year": 2017
   }, 
   "ZZTo2L2Nu_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/ZZTo2L2Nu_13TeV_powheg_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -10147,6 +11548,9 @@
     "year": 2016
   }, 
   "ZZTo2L2Q_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/ZZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -10168,6 +11572,9 @@
     "year": 2017
   }, 
   "ZZTo2L2Q_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/ZZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM", 
@@ -10188,6 +11595,9 @@
     "year": 2016
   }, 
   "ZZTo2Q2Nu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/ZZTo2Q2Nu_TuneCP5_13TeV_amcatnloFXFX_madspin_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -10209,6 +11619,9 @@
     "year": 2017
   }, 
   "ZZTo4L_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_ext1-v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/ZZTo4L_13TeV_powheg_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v1/MINIAODSIM", 
@@ -10230,6 +11643,9 @@
     "year": 2017
   }, 
   "ZZTo4L_RunIIFall17MiniAODv2_PU2017newpmx_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/ZZTo4L_13TeV_powheg_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
@@ -10251,6 +11667,9 @@
     "year": 2017
   }, 
   "ZZTo4L_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/ZZTo4L_13TeV-amcatnloFXFX-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM", 
@@ -10271,6 +11690,9 @@
     "year": 2016
   }, 
   "ZZ_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2018_MC-part1"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/ZZ_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -10291,6 +11713,9 @@
     "year": 2018
   }, 
   "ZZ_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/ZZ_TuneCP5_13TeV-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
@@ -10311,6 +11736,9 @@
     "year": 2017
   }, 
   "ZZ_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_ext1-v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/ZZ_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM", 
@@ -10331,6 +11759,9 @@
     "year": 2016
   }, 
   "ZZ_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/ZZ_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM", 
@@ -10351,6 +11782,9 @@
     "year": 2016
   }, 
   "ttHJetToTTM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_ext4-v1": {
+    "Legacy_Skim": [
+      "2016_MC-part2"
+    ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
     "dbs": "/ttHJetToTT_M125_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext4-v1/MINIAODSIM", 
@@ -10371,6 +11805,9 @@
     "year": 2016
   }, 
   "ttHToTauTauM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2018_MC-part2"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/ttHToTauTau_M125_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -10391,6 +11828,9 @@
     "year": 2018
   }, 
   "ttHToTauTauM125_RunIIFall17MiniAODv2_PU2017newmpx_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part2"
+    ], 
     "campaign": "RunIIFall17MiniAODv2", 
     "data": false, 
     "dbs": "/ttHToTauTau_M125_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
