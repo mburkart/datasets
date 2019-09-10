@@ -72,7 +72,7 @@
   }, 
   "DY1JetsToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_v1": {
     "Legacy_Skim": [
-      "2017_MC-part2"
+      "2016_MC-part2"
     ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
@@ -167,7 +167,7 @@
   }, 
   "DY2JetsToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_v2": {
     "Legacy_Skim": [
-      "2017_MC-part2"
+      "2016_MC-part2"
     ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
@@ -262,7 +262,7 @@
   }, 
   "DY3JetsToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_v2": {
     "Legacy_Skim": [
-      "2017_MC-part2"
+      "2016_MC-part2"
     ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
@@ -332,7 +332,7 @@
   }, 
   "DY4JetsToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_v2": {
     "Legacy_Skim": [
-      "2017_MC-part2"
+      "2016_MC-part2"
     ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
@@ -427,7 +427,7 @@
   }, 
   "DYJetsToLLM10to50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_v2": {
     "Legacy_Skim": [
-      "2017_MC-part2"
+      "2016_MC-part2"
     ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
@@ -610,7 +610,7 @@
   }, 
   "DYJetsToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_ext2-v1": {
     "Legacy_Skim": [
-      "2017_MC-part2"
+      "2016_MC-part2"
     ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
@@ -632,7 +632,7 @@
   }, 
   "DYJetsToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext1-v2": {
     "Legacy_Skim": [
-      "2017_MC-part2"
+      "2016_MC-part2"
     ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
@@ -655,7 +655,7 @@
   }, 
   "DYJetsToLLM50_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_ext2-v2": {
     "Legacy_Skim": [
-      "2017_MC-part2"
+      "2016_MC-part2"
     ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
@@ -9336,7 +9336,7 @@
   }, 
   "TTJets_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_madgraph-pythia8_v1": {
     "Legacy_Skim": [
-      "2017_MC-part2"
+      "2016_MC-part2"
     ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
@@ -9500,7 +9500,7 @@
   }, 
   "TTToSemilepton_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v2": {
     "Legacy_Skim": [
-      "2017_MC-part2"
+      "2016_MC-part2"
     ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
@@ -9523,7 +9523,7 @@
   }, 
   "TT_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v1": {
     "Legacy_Skim": [
-      "2017_MC-part2"
+      "2016_MC-part2"
     ], 
     "campaign": "RunIISummer16MiniAODv3", 
     "data": false, 
