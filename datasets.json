@@ -1823,6 +1823,9 @@
     "year": 2016
   }, 
   "Embedding2016D_MuonEmbedding_inputDoubleMu94XLegacyminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2016_EMB"
+    ], 
     "campaign": "MuonEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2016D/MuonEmbedding-inputDoubleMu_94X_Legacy_miniAOD-v1/USER", 
@@ -2217,6 +2220,9 @@
     "year": 2016
   }, 
   "Embedding2016F_ElectronEmbedding_inputDoubleMu94XLegacyminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2016_EMB"
+    ], 
     "campaign": "ElectronEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2016F/ElectronEmbedding-inputDoubleMu_94X_Legacy_miniAOD-v1/USER", 
@@ -2298,6 +2304,9 @@
     "year": 2016
   }, 
   "Embedding2016F_MuonEmbedding_inputDoubleMu94XLegacyminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2016_EMB"
+    ], 
     "campaign": "MuonEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2016F/MuonEmbedding-inputDoubleMu_94X_Legacy_miniAOD-v1/USER", 
@@ -2461,6 +2470,9 @@
     "year": 2016
   }, 
   "Embedding2016G_ElectronEmbedding_inputDoubleMu94XLegacyminiAODv2_13TeV_USER_v2": {
+    "Legacy_Skim": [
+      "2016_EMB"
+    ], 
     "campaign": "ElectronEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2016G/ElectronEmbedding-inputDoubleMu_94X_Legacy_miniAOD-v2/USER", 
@@ -2540,8 +2552,11 @@
     "scenario": "imputSep16DoubleMu_miniAODv2", 
     "version": "v2", 
     "year": 2016
-  },  
+  }, 
   "Embedding2016G_MuonEmbedding_inputDoubleMu94XLegacyminiAODv4_13TeV_USER_v4": {
+    "Legacy_Skim": [
+      "2016_EMB"
+    ], 
     "campaign": "MuonEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2016G/MuonEmbedding-inputDoubleMu_94X_Legacy_miniAOD-v4/USER", 
@@ -2623,6 +2638,9 @@
     "year": 2016
   }, 
   "Embedding2016H_ElMuFinalState_inputDoubleMu94XLegacyminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2016_EMB"
+    ], 
     "campaign": "ElMuFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2016H/ElMuFinalState-inputDoubleMu_94X_Legacy_miniAOD-v1/USER", 
@@ -2704,6 +2722,9 @@
     "year": 2016
   }, 
   "Embedding2016H_ElectronEmbedding_inputDoubleMu94XLegacyminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2016_EMB"
+    ], 
     "campaign": "ElectronEmbedding", 
     "data": true, 
     "dbs": "/EmbeddingRun2016H/ElectronEmbedding-inputDoubleMu_94X_Legacy_miniAOD-v1/USER", 
@@ -2790,6 +2811,9 @@
     "year": 2016
   }, 
   "Embedding2016H_TauTauFinalState_inputDoubleMu94XLegacyminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2016_EMB"
+    ], 
     "campaign": "TauTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2016H/TauTauFinalState-inputDoubleMu_94X_Legacy_miniAOD-v1/USER", 
