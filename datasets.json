@@ -2767,6 +2767,24 @@
     "xsec": 816.4, 
     "year": 2016
   }, 
+  "Embedding2016H_MuTauFinalState_inputDoubleMu94XLegacyminiAODv1_13TeV_USER_v1": {
+    "campaign": "MuTauFinalState", 
+    "data": true, 
+    "dbs": "/EmbeddingRun2016H/MuTauFinalState-inputDoubleMu_94X_Legacy_miniAOD-v1/USER", 
+    "embedded": true, 
+    "energy": "13", 
+    "extension": "", 
+    "format": "USER", 
+    "generator": "", 
+    "globalTag": "102X_dataRun2_v11", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "6853000", 
+    "n_files": "6853", 
+    "process": "Embedding2016H", 
+    "scenario": "inputDoubleMu_94X_Legacy_miniAODv1", 
+    "version": "v1", 
+    "year": 2016
+  }, 
   "Embedding2016H_MuonEmbedding_imputPromptDoubleMuminiAODv2_13TeV_USER_v2": {
     "campaign": "MuonEmbedding", 
     "data": true, 
