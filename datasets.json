@@ -2803,6 +2803,27 @@
     "version": "v2", 
     "year": 2016
   }, 
+  "Embedding2016H_MuonEmbedding_inputDoubleMu94XLegacyminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2016_EMB"
+    ],
+    "campaign": "MuonEmbedding",
+    "data": true,
+    "dbs": "/EmbeddingRun2016G/MuonEmbedding-inputDoubleMu_94X_Legacy_miniAOD-v1/USER",
+    "embedded": true,
+    "energy": "13",
+    "extension": "",
+    "format": "USER",
+    "generator": "",
+    "globalTag": "102X_dataRun2_v12",
+    "inputDBS": "phys03",
+    "n_events_generated": "8967000",
+    "n_files": "8967",
+    "process": "Embedding2016H",
+    "scenario": "inputDoubleMu_94X_Legacy_miniAODv1",
+    "version": "v1",
+    "year": 2016
+  },
   "Embedding2016H_TauTauFinalState_imputPromptDoubleMumirrorminiAODv3_13TeV_USER": {
     "Moriond17": [
       "Skim_Base", 
