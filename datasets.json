@@ -4033,6 +4033,7 @@
     "process": "GluGluHToTauTau_HTXSFilter_STXS1p1_Bin101_M125", 
     "scenario": "102X", 
     "version": "v2", 
+    "xsec": 0.0433926,
     "year": 2017
   }, 
   "GluGluHToTauTauHTXSFilterSTXS1p1Bin104to105M125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
@@ -4053,6 +4054,7 @@
     "process": "GluGluHToTauTau_HTXSFilter_STXS1p1_Bin104to105_M125", 
     "scenario": "102X", 
     "version": "v1", 
+    "xsec": 0.6651658,
     "year": 2017
   }, 
   "GluGluHToTauTauHTXSFilterSTXS1p1Bin104to105M125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
@@ -4073,6 +4075,7 @@
     "process": "GluGluHToTauTau_HTXSFilter_STXS1p1_Bin104to105_M125", 
     "scenario": "PU2017", 
     "version": "v1", 
+    "xsec": 0.6651658,
     "year": 2017
   }, 
   "GluGluHToTauTauHTXSFilterSTXS1p1Bin106M125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v2": {
@@ -4093,6 +4096,7 @@
     "process": "GluGluHToTauTau_HTXSFilter_STXS1p1_Bin106_M125", 
     "scenario": "102X", 
     "version": "v2", 
+    "xsec": 0.0422219,
     "year": 2017
   }, 
   "GluGluHToTauTauHTXSFilterSTXS1p1Bin107to109M125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
@@ -4113,6 +4117,7 @@
     "process": "GluGluHToTauTau_HTXSFilter_STXS1p1_Bin107to109_M125", 
     "scenario": "102X", 
     "version": "v1", 
+    "xsec": 0.2283533,
     "year": 2017
   }, 
   "GluGluHToTauTauHTXSFilterSTXS1p1Bin107to109M125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
@@ -4133,6 +4138,7 @@
     "process": "GluGluHToTauTau_HTXSFilter_STXS1p1_Bin107to109_M125", 
     "scenario": "PU2017", 
     "version": "v1", 
+    "xsec": 0.2283533,
     "year": 2017
   }, 
   "GluGluHToTauTauHTXSFilterSTXS1p1Bin110to113M125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v2": {
@@ -4153,6 +4159,7 @@
     "process": "GluGluHToTauTau_HTXSFilter_STXS1p1_Bin110to113_M125", 
     "scenario": "102X", 
     "version": "v2", 
+    "xsec": 0.0483338,
     "year": 2017
   }, 
   "GluGluHToTauTauM110_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
