@@ -676,6 +676,114 @@
     "xsec": 6077.22, 
     "year": 2016
   }, 
+  "DoubleMuon_Run2016C_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
+    "campaign": "Run2016C", 
+    "data": true, 
+    "dbs": "/DoubleMuon/Run2016C-17Jul2018-v1/MINIAOD", 
+    "energy": "13", 
+    "extension": "", 
+    "format": "MINIAOD", 
+    "generator": "", 
+    "inputDBS": "global", 
+    "n_events_generated": "27934629", 
+    "n_files": "203", 
+    "process": "DoubleMuon", 
+    "scenario": "17Jul2018v1", 
+    "version": ""
+  }, 
+  "DoubleMuon_Run2016D_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
+    "campaign": "Run2016D", 
+    "data": true, 
+    "dbs": "/DoubleMuon/Run2016D-17Jul2018-v1/MINIAOD", 
+    "energy": "13", 
+    "extension": "", 
+    "format": "MINIAOD", 
+    "generator": "", 
+    "inputDBS": "global", 
+    "n_events_generated": "33861745", 
+    "n_files": "215", 
+    "process": "DoubleMuon", 
+    "scenario": "17Jul2018v1", 
+    "version": ""
+  }, 
+  "DoubleMuon_Run2016E_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
+    "campaign": "Run2016E", 
+    "data": true, 
+    "dbs": "/DoubleMuon/Run2016E-17Jul2018-v1/MINIAOD", 
+    "energy": "13", 
+    "extension": "", 
+    "format": "MINIAOD", 
+    "generator": "", 
+    "inputDBS": "global", 
+    "n_events_generated": "28246946", 
+    "n_files": "186", 
+    "process": "DoubleMuon", 
+    "scenario": "17Jul2018v1", 
+    "version": ""
+  }, 
+  "DoubleMuon_Run2016F_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
+    "campaign": "Run2016F", 
+    "data": true, 
+    "dbs": "/DoubleMuon/Run2016F-17Jul2018-v1/MINIAOD", 
+    "energy": "13", 
+    "extension": "", 
+    "format": "MINIAOD", 
+    "generator": "", 
+    "inputDBS": "global", 
+    "n_events_generated": "20329921", 
+    "n_files": "155", 
+    "process": "DoubleMuon", 
+    "scenario": "17Jul2018v1", 
+    "version": ""
+  }, 
+  "DoubleMuon_Run2016G_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
+    "campaign": "Run2016G", 
+    "data": true, 
+    "dbs": "/DoubleMuon/Run2016G-17Jul2018-v1/MINIAOD", 
+    "energy": "13", 
+    "extension": "", 
+    "format": "MINIAOD", 
+    "generator": "", 
+    "inputDBS": "global", 
+    "n_events_generated": "45235604", 
+    "n_files": "346", 
+    "process": "DoubleMuon", 
+    "scenario": "17Jul2018v1", 
+    "version": ""
+  }, 
+  "DoubleMuon_Run2016H_17Jul2018v1_13TeV_MINIAOD": {
+    "Legacy_Skim": [
+      "2016_DATA"
+    ], 
+    "campaign": "Run2016H", 
+    "data": true, 
+    "dbs": "/DoubleMuon/Run2016H-17Jul2018-v1/MINIAOD", 
+    "energy": "13", 
+    "extension": "", 
+    "format": "MINIAOD", 
+    "generator": "", 
+    "inputDBS": "global", 
+    "n_events_generated": "48912812", 
+    "n_files": "378", 
+    "process": "DoubleMuon", 
+    "scenario": "17Jul2018v1", 
+    "version": ""
+  }, 
   "EGamma_Run2018A_17Sep2018v2_13TeV_MINIAOD": {
     "Legacy_Skim": [
       "2018_DATA"
