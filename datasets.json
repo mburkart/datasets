@@ -14644,7 +14644,7 @@
     "process": "VBFHToTauTau_HTXSFilter_STXS1p1_Bin207to210_M125", 
     "scenario": "102X", 
     "version": "v1", 
-    "xsex": 0.078685, 
+    "xsec": 0.078685, 
     "year": 2017
   }, 
   "VBFHToTauTauHTXSFilterSTXS1p1Bin207to210M125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
@@ -14665,7 +14665,7 @@
     "process": "VBFHToTauTau_HTXSFilter_STXS1p1_Bin207to210_M125", 
     "scenario": "PU2017", 
     "version": "v1", 
-    "xsex": 0.078685, 
+    "xsec": 0.078685, 
     "year": 2017
   }, 
   "VBFHToTauTauM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_ext1-v1": {
