@@ -4448,6 +4448,28 @@
     "xsec": 1.09, 
     "year": 2016
   }, 
+  "GluGluToHToTauTauM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ],
+    "campaign": "RunIIFall17MiniAODv2", 
+    "data": false, 
+    "dbs": "/GluGluToHToTauTau_M125_13TeV_amcatnloFXFX_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM", 
+    "energy": "13", 
+    "era": "2017-Nov17ReReco",
+    "extension": "", 
+    "format": "MINIAOD", 
+    "generator": "amcatnlo-pythia8", 
+    "globalTag": "102X_mc2017_realistic_v7", 
+    "inputDBS": "global", 
+    "n_events_generated": "15056746", 
+    "n_files": "271", 
+    "process": "GluGluToHToTauTau_M125", 
+    "scenario": "PU2017", 
+    "version": "v1", 
+    "xsec": 0.6651658,
+    "year": 2017
+  }, 
   "MuonEG_Run2016B_17Jul2018ver2v1_13TeV_MINIAOD": {
     "Legacy_Skim": [
       "2016_DATA"
