@@ -18665,7 +18665,7 @@
     "generatorWeight": 0.9984313725490196, 
     "globalTag": "102X_mcRun2_asymptotic_v7", 
     "inputDBS": "global", 
-    "n_events_generated": "2000000", 
+    "n_events_generated": "1999000", 
     "n_files": "15", 
     "process": "VBFHToTauTau_M125", 
     "scenario": "PUMoriond17", 
