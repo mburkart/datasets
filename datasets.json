@@ -4510,6 +4510,23 @@
     "xsec": 3.0469376, 
     "year": 2016
   }, 
+  "GluGluHToWWTo2L2NuM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "campaign": "RunIIAutumn18MiniAOD", 
+    "data": false, 
+    "dbs": "/GluGluHToWWTo2L2Nu_M125_13TeV_powheg2_JHUGenV714_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
+    "energy": "13", 
+    "extension": "", 
+    "format": "MINIAOD", 
+    "generator": "powheg-pythia8", 
+    "globalTag": "102X_upgrade2018_realistic_v20", 
+    "inputDBS": "global", 
+    "n_events_generated": "1000000", 
+    "n_files": "33", 
+    "process": "GluGluHToWWTo2L2Nu_M125", 
+    "scenario": "102X", 
+    "version": "v1", 
+    "year": 2018
+  }, 
   "GluGluHToWWTo2L2NuM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
     "Legacy_Skim": [
       "2017_MC-part1"
@@ -11235,6 +11252,23 @@
     "version": "v2", 
     "xsec": 0.2370687, 
     "year": 2016
+  }, 
+  "VBFHToWWTo2L2NuM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "campaign": "RunIIAutumn18MiniAOD", 
+    "data": false, 
+    "dbs": "/VBFHToWWTo2L2Nu_M125_13TeV_powheg2_JHUGenV714_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
+    "energy": "13", 
+    "extension": "", 
+    "format": "MINIAOD", 
+    "generator": "powheg-pythia8", 
+    "globalTag": "102X_upgrade2018_realistic_v20", 
+    "inputDBS": "global", 
+    "n_events_generated": "1000000", 
+    "n_files": "34", 
+    "process": "VBFHToWWTo2L2Nu_M125", 
+    "scenario": "102X", 
+    "version": "v1", 
+    "year": 2018
   }, 
   "VBFHToWWTo2L2NuM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
     "Legacy_Skim": [
