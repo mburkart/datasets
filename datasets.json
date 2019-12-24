@@ -4526,6 +4526,7 @@
     "process": "GluGluHToWWTo2L2Nu_M125", 
     "scenario": "102X", 
     "version": "v1", 
+    "xsec": 1.09, 
     "year": 2018
   }, 
   "GluGluHToWWTo2L2NuM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
@@ -11270,6 +11271,7 @@
     "process": "VBFHToWWTo2L2Nu_M125", 
     "scenario": "102X", 
     "version": "v1", 
+    "xsec": 0.085, 
     "year": 2018
   }, 
   "VBFHToWWTo2L2NuM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
