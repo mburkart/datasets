@@ -13825,7 +13825,7 @@
     "process": "ggZH_HToTauTau_ZToLL_M125", 
     "scenario": "102X", 
     "version": "v1", 
-    "xsec": 0.077719, 
+    "xsec": 0.00077719, 
     "year": 2018
   }, 
   "ggZHHToTauTauZToLLM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
@@ -13845,7 +13845,7 @@
     "process": "ggZH_HToTauTau_ZToLL_M125", 
     "scenario": "PU2017", 
     "version": "v1", 
-    "xsec": 0.077719, 
+    "xsec": 0.00077719, 
     "year": 2017
   }, 
   "ggZHHToTauTauZToLLM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v1": {
@@ -13865,7 +13865,7 @@
     "process": "ggZH_HToTauTau_ZToLL_M125", 
     "scenario": "PUMoriond17", 
     "version": "v1", 
-    "xsec": 0.077719, 
+    "xsec": 0.00077719, 
     "year": 2016
   }, 
   "ggZHHToTauTauZToNuNuM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
@@ -13885,7 +13885,7 @@
     "process": "ggZH_HToTauTau_ZToNuNu_M125", 
     "scenario": "102X", 
     "version": "v1", 
-    "xsec": 0.153915, 
+    "xsec": 0.00153915, 
     "year": 2018
   }, 
   "ggZHHToTauTauZToNuNuM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
@@ -13905,7 +13905,7 @@
     "process": "ggZH_HToTauTau_ZToNuNu_M125", 
     "scenario": "PU2017", 
     "version": "v1", 
-    "xsec": 0.153915, 
+    "xsec": 0.00153915, 
     "year": 2017
   }, 
   "ggZHHToTauTauZToNuNuM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v1": {
@@ -13925,7 +13925,7 @@
     "process": "ggZH_HToTauTau_ZToNuNu_M125", 
     "scenario": "PUMoriond17", 
     "version": "v1", 
-    "xsec": 0.153915, 
+    "xsec": 0.00153915, 
     "year": 2016
   }, 
   "ggZHHToTauTauZToQQM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
@@ -13945,7 +13945,7 @@
     "process": "ggZH_HToTauTau_ZToQQ_M125", 
     "scenario": "102X", 
     "version": "v1", 
-    "xsec": 0.538017, 
+    "xsec": 0.00538017, 
     "year": 2018
   }, 
   "ggZHHToTauTauZToQQM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v2": {
@@ -13965,7 +13965,7 @@
     "process": "ggZH_HToTauTau_ZToQQ_M125", 
     "scenario": "PU2017", 
     "version": "v2", 
-    "xsec": 0.538017, 
+    "xsec": 0.00538017, 
     "year": 2017
   }, 
   "ggZHHToTauTauZToQQM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v1": {
@@ -13985,7 +13985,7 @@
     "process": "ggZH_HToTauTau_ZToQQ_M125", 
     "scenario": "PUMoriond17", 
     "version": "v1", 
-    "xsec": 0.538017, 
+    "xsec": 0.00538017, 
     "year": 2016
   }, 
   "ttHJetToTTM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_amcatnlo-pythia8_ext4-v1": {
