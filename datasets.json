@@ -4487,6 +4487,29 @@
     "xsec": 3.0469376, 
     "year": 2016
   }, 
+  "GluGluHToTauTauM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_ext2-v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
+    "campaign": "RunIISummer16MiniAODv3", 
+    "data": false, 
+    "dbs": "/GluGluHToTauTau_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v1/MINIAODSIM", 
+    "energy": "13", 
+    "era": "2016-Legacy", 
+    "extension": "ext2", 
+    "format": "MINIAOD", 
+    "generator": "powheg-pythia8", 
+    "generatorWeight": 1.0, 
+    "globalTag": "102X_mcRun2_asymptotic_v7", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "19976000", 
+    "n_files": "6659", 
+    "process": "GluGluHToTauTau_M125", 
+    "scenario": "PUMoriond17", 
+    "version": "v1", 
+    "xsec": 3.0469376, 
+    "year": 2016
+  }, 
   "GluGluHToTauTauM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v3": {
     "Legacy_Skim": [
       "2016_MC-part1"
@@ -11928,6 +11951,29 @@
     "inputDBS": "global", 
     "n_events_generated": "1999000", 
     "n_files": "15", 
+    "process": "VBFHToTauTau_M125", 
+    "scenario": "PUMoriond17", 
+    "version": "v1", 
+    "xsec": 0.2370687, 
+    "year": 2016
+  }, 
+  "VBFHToTauTauM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_ext2-v1": {
+    "Legacy_Skim": [
+      "2016_MC-part1"
+    ], 
+    "campaign": "RunIISummer16MiniAODv3", 
+    "data": false, 
+    "dbs": "/VBFHToTauTau_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v1/MINIAODSIM", 
+    "energy": "13", 
+    "era": "2016-Legacy", 
+    "extension": "ext2", 
+    "format": "MINIAOD", 
+    "generator": "powheg-pythia8", 
+    "generatorWeight": 0.9984733333333333, 
+    "globalTag": "102X_mcRun2_asymptotic_v7", 
+    "inputDBS": "phys03", 
+    "n_events_generated": "300000", 
+    "n_files": "2997", 
     "process": "VBFHToTauTau_M125", 
     "scenario": "PUMoriond17", 
     "version": "v1", 
