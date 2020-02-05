@@ -14296,7 +14296,7 @@
     "process": "ZHToTauTau_M125", 
     "scenario": "102X", 
     "version": "v2", 
-    "xsec": 0.05544, 
+    "xsec": 0.04774, 
     "year": 2018
   }, 
   "ZHToTauTauM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
@@ -14319,7 +14319,7 @@
     "process": "ZHToTauTau_M125", 
     "scenario": "PU2017", 
     "version": "v1", 
-    "xsec": 0.05544, 
+    "xsec": 0.04774, 
     "year": 2017
   }, 
   "ZHToTauTauM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v2": {
@@ -14342,7 +14342,7 @@
     "process": "ZHToTauTau_M125", 
     "scenario": "PUMoriond17", 
     "version": "v2", 
-    "xsec": 0.05544, 
+    "xsec": 0.04774, 
     "year": 2016
   }, 
   "ZZTo2L2Nu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_powheg-pythia8_v1": {
