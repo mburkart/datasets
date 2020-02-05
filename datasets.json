@@ -4617,7 +4617,7 @@
     "process": "GluGluToHToTauTau_M125", 
     "scenario": "PU2017", 
     "version": "v1", 
-    "xsec": 0.6651658, 
+    "xsec": 3.0469376, 
     "year": 2017
   }, 
   "GluGluZHHToWWM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
