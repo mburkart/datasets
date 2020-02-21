@@ -1,0 +1,15 @@
+[/PRIVATE/MiniAOD#7b48d168]
+nickname = MiniAOD
+events = 100000
+se list = dcache-se-cms.desy.de
+prefix = /store/user/jbechtel/gc_storage/miniAOD/M1600_h1_M125_tautau_h2_M300_bb
+MiniAOD_0.root = 10000
+MiniAOD_1.root = 10000
+MiniAOD_2.root = 10000
+MiniAOD_3.root = 10000
+MiniAOD_4.root = 10000
+MiniAOD_5.root = 10000
+MiniAOD_6.root = 10000
+MiniAOD_7.root = 10000
+MiniAOD_8.root = 10000
+MiniAOD_9.root = 10000
