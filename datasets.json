@@ -12836,6 +12836,24 @@
     "xsec": 0.2370687, 
     "year": 2016
   }, 
+  "VBFHToTauTauM125_RunIISummer17MiniAOD_NZSFlatPU28to62_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "campaign": "RunIISummer17MiniAOD", 
+    "data": false, 
+    "dbs": "/VBFHToTauTau_M125_13TeV_powheg_pythia8/RunIISummer17MiniAOD-NZSFlatPU28to62_HIG07_92X_upgrade2017_realistic_v10-v1/MINIAODSIM", 
+    "energy": "13", 
+    "extension": "", 
+    "format": "MINIAOD", 
+    "generator": "powheg-pythia8", 
+    "globalTag": "92X_upgrade2017_realistic_v14", 
+    "inputDBS": "global", 
+    "n_events_generated": "2991422", 
+    "n_files": "84", 
+    "process": "VBFHToTauTau_M125", 
+    "scenario": "NZSFlatPU28to62", 
+    "version": "v1", 
+    "xsec": 0.23720704, 
+    "year": 2017
+  }, 
   "VBFHToWWTo2L2NuM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
